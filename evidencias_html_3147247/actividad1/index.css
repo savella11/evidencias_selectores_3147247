@@ -1,0 +1,23 @@
+.pregunta1{
+    border: 1px solid black;
+    background: aqua;
+}
+.pregunta2{
+    background: rgb(107, 238, 107) ;
+}
+
+.content-div{
+    border: 1px dashed rgb(255, 0, 0);
+}
+
+.pregunta3{
+    color: blue;
+}
+
+.prengunta5{
+    background: mediumorchid;
+}
+
+.prengunta6{
+    background: olivedrab;
+}
